@@ -1,0 +1,75 @@
+* {
+    font-family: 'Inter';
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+}
+
+img {
+    margin: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    margin: 5px;
+}
+
+h5 {
+
+    padding: 5px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+
+label {
+    margin: 5px;
+    text-align: left;
+    width: 45%;
+}
+
+
+input {
+    background: #7F7F7F;
+    border-radius: 25px;
+    width: 50%;
+    height: 25px;
+}
+
+.entrar {
+    margin-top: 32px;
+    background: #8C77E0;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    box-sizing: border-box;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.provedor {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    width: 180px;
+    height: 30px;
+    background: #8C77E0;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+}
+
+p {
+    margin: 25px 0px 30px 0px;
+}
